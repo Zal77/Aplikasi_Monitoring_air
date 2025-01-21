@@ -1,6 +1,6 @@
 name: aplikasi_monitoring_air
 description: "A new Flutter project."
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0
 
 environment:
@@ -9,6 +9,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  get: ^4.6.6
+  skeletonizer: ^1.4.3
+  back_button_interceptor: ^8.0.3
+  flutter_animate: ^4.5.2
+  google_fonts: ^6.2.1
+  flutter_launcher_icons: ^0.14.2
+  salomon_bottom_bar: ^3.3.2
 
 dev_dependencies:
   flutter_test:
